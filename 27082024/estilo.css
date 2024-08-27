@@ -1,0 +1,17 @@
+h1{
+    color: blue;
+    border: 1px solid skyblue;
+}
+
+.parrafo{
+    font-size: 35px;
+    border: 1px solid red;
+}
+
+.parrafoazul{
+    background-color: chartreuse;
+    color: red;
+    border: 10px solid khaki;
+    margin-top: 120px;
+    padding-bottom: 100px;
+}
