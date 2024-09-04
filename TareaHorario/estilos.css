@@ -1,0 +1,44 @@
+.sinnada{
+    background-color: rgba(87, 231, 231, 0.685);
+}
+
+.programacion{
+    background-color: rgb(233, 141, 141);
+    text-align: center;
+}
+
+.alinear{
+    text-align: center;
+}
+
+td{
+    text-align: center;
+}
+
+.politica{
+    background-color: rgb(241, 165, 137);
+}
+
+.electronica{
+    background-color: rgb(170, 152, 132);
+}
+
+ul, li{
+    text-align: center;
+    list-style-position: inside;
+}
+
+.uno{
+    background-color: rgb(189, 164, 119);
+}
+
+.dos{
+    background-color: rgb(233, 150, 122);
+}
+
+img{
+    position: absolute;
+    top: 52%;
+    left: 37%;
+    border: 1px solid;
+}
