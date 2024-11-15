@@ -1,6 +1,7 @@
 .body1{
     background: rgb(238,174,202);
 background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+align-items: center;
 }
 
 .body2{
@@ -16,3 +17,22 @@ h1{
 p{
     text-align: center;
 }
+
+h3{
+    text-align: center;
+    color: black;
+}
+
+ul{
+    text-align: center;
+}
+
+div{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    color: black;
+}
+
