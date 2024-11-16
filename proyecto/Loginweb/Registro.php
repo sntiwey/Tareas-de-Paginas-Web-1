@@ -1,15 +1,3 @@
-<!-- //Redirigir para iniciar sesión -->
-<?php
-session_start();
-
-//Si el usuario no ha iniciado sesión, lo redirige al login
-if (!isset($_SESSION['logueado'])) {
-    $_SESSION['redirect_to'] = $_SERVER['REQUEST_URI'];
-    header('Location: index.php');
-    exit(); 
-}
-?>
-
 <!DOCTYPE html>
 <html lang="es">
 <head>

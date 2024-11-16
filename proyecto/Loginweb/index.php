@@ -35,6 +35,16 @@
             border-radius: 5px;
             padding: 5px;
         }
+        .register-link {
+            margin-top: 20px;
+            color: white;
+            font-size: 14px;
+        }
+        .register-link a {
+            color: #ffab40;
+            text-decoration: none;
+            font-weight: bold;
+        }
     </style>
 </head>
 <body>
@@ -47,6 +57,9 @@
             <br /><br />
             <button type="submit" class="btn waves-effect waves-light">Iniciar Sesión</button>
         </form>
+        <div class="register-link">
+            ¿No estás registrado? <a href="registro.php">Haz clic aquí para registrarte</a>
+        </div>
     </div>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
